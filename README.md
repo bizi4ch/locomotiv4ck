@@ -1,5 +1,3 @@
-# locomotiv4ck
-lokomotiv4сk's portfolio
 <!DOCTYPE html>
 <html lang="en">
 <head>
